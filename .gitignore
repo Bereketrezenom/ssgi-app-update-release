@@ -1,0 +1,13 @@
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+*.apk
+*.aab
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db 
