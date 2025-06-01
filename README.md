@@ -6,7 +6,7 @@ This repository contains the SSGI App APK file for Android devices.
 
 ## Download
 
-You can download the latest version of the app from the [Releases](https://github.com/YOUR_USERNAME/app-release/releases) section.
+You can download the latest version of the app from the [Releases](https://github.com/Bereketezenom/app-release/releases) section.
 
 ## Installation
 
